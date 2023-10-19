@@ -1,0 +1,23 @@
+# Identifying the Largest Element of a NumPy Array: max(), argmax() methods
+# Detecting Least Element of NumPy Array: min(). argmin() methods
+# Concatenating NumPy Arrays: concatenate() method
+# Splitting One-Dimensional NumPy Array: The split() method
+# Splitting Two-Dimensional NumPy Array: The split(), vsplit(), hsplit() method
+# Sorting NumPy Arrays: sort() method
+
+# Indexing NumPy Arrays
+# Slicing One-Dimensional NumPy Array
+# Slicing Two-Dimensional NumPy Array
+# Assigining Value to One-Dimensional Array
+# Assigining Value to Two-Dimensional Array
+# Fancy Indexing of One-Dimensional Array
+# Fancy Indexing of Two-Dimensional Array
+# Combining Fancy Index with Normal Indexing
+# Combining Fancy Index with Normal Slicing
+# Operations with Comparision Operators
+# Arithmetic Operations in NumPy
+# Statistical Operations in NumPy
+# Solving Second-Degree Equations in NumPy
+
+
+
